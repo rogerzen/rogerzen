@@ -31,8 +31,7 @@ Estudando programação para me tornar uma desenvolvedor FullStack, atrasves da 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 ---
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rogerzen)
-
+<b>My GitHub Stats</b>
 <!---
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME) --->
 
