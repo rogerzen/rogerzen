@@ -1,27 +1,14 @@
-
-
-Hi 👋 My name is Roger Zeni
-===========================
-
-Futuro desenvolvedor Fullstack
-------------------------------
-
-Estudando programação para me tornar uma desenvolvedor FullStack, atrasves da tecnologias Html Css ew javascript.
-
-* 🌍  I'm based in Porto Alegre - rs
-* ✉️  You can contact me at [rogerzeni@hotmaill.com.br](mailto:rogerzeni@hotmaill.com.br)
-* 🧠  I'm learning Html, Css, JavaScript, Python.
-
-### Skills:
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
-
-### Badges
+<h1 align="center">Olá👋, Meu nome é Roger Zeni Antunes</h1>
+<h3 align="center">Front-End Developer</h3>
+<ul>
+<li> 📖 Estudando programação para me tornar uma desenvolvedor FullStack. </li>
+<li> 🌍  Eu sou de Porto Alegre - rs </li>
+<li> ✉️  Pode entrar em contato: rogerzeni@hotmaill.com.br
+<li> 🧠  Estou estudando Html, css, Javascript e React. </li>
+</ul>
+<h3 align="left">Languages:</h3><br>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a><a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a><a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>   
+<br>
 
 <b>My GitHub Stats</b>
 
