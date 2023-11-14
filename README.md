@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, Meu nome é Roger Zeni Antunes</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Mobile Developer</h3>
 <ul>
 <li> 📖 Estudando programação para me tornar uma desenvolvedor FullStack. </li>
 <li> 🌍  Eu sou de Porto Alegre - rs </li>
